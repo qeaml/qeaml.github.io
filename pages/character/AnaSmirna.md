@@ -6,7 +6,15 @@ thumb: /static/Img/Character/AnaSmirna/131.jpg
 keywords: [Character, OC, Cat, Anthro]
 ---
 
-<img class="char-portrait" src="/static/Img/Character/AnaSmirna/131.jpg">
+<aside class="side-info">
+    <h3>Ana</h3>
+    <img class="char-portrait" src="/static/Img/Character/AnaSmirna/131.jpg">
+    <table>
+        <tr><th>Full Name</th><td>Ana Smirna</td></tr>
+        <tr><th>Gender</th><td>Female</td></tr>
+        <tr><th>Species</th><td>Anthrop. Cat</td></tr>
+    </table>
+</aside>
 
 **Ana Smirna** is an original character designed by [qeaml].
 

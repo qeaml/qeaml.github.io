@@ -81,11 +81,10 @@ li {
 }
 
 .char-portrait {
-    max-width: 10rem;
-    max-height: 10rem;
-    margin-left: 1rem;
+    max-width: 15em;
+    /* margin-left: 1rem;
     margin-bottom: 1rem;
-    float: right;
+    float: right; */
 }
 
 .gallery {
@@ -107,4 +106,18 @@ li {
 .gallery-elem img {
     max-width: 9rem;
     max-height: 9rem;
+}
+
+.side-info {
+    float: right;
+    font-size: 75%;
+    max-width: 15em;
+    text-align: center;
+    margin: 0 0 0 1rem;
+    padding: 0 0 0 1rem;
+    border-left: 1px solid var(--light-accent);
+}
+
+.side-info h3 {
+    margin-top: 0;
 }

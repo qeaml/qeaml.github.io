@@ -7,7 +7,17 @@ thumb: "/static/Img/Character/Gar28/Mirror.png"
 keywords: [Character, Cat, Gar28]
 ---
 
-<img class="char-portrait" src="/static/Img/Character/Gar28/Mirror.png">
+<aside class="side-info">
+    <h3>Gar</h3>
+    <img class="char-portrait" src="/static/Img/Character/Gar28/Mirror.png">
+    <table>
+        <tr><th>Full Name</th><td>Gar28</td></tr>
+        <tr><th>Gender</th><td>Female</td></tr>
+        <tr><th>Species</th><td>Anthrop. Cat</td></tr>
+        <tr><th>Height</th><td>187cm</td></tr>
+        <tr><th>First Appearance</th><td>Gar28</td></tr>
+    </table>
+</aside>
 
 **Gar** is the protagonist and player character of Gar28. You can view parts of
 her sprite by looking up and down while in game. Her entire sprite is also

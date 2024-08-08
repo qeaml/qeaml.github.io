@@ -7,7 +7,16 @@ thumb: /static/Img/Character/ButtMcCrack/InGame.png
 keywords: [Character, Human, Shitting Bricks Simulator]
 ---
 
-<img class="char-portrait" src="/static/Img/Character/ButtMcCrack/InGame.png">
+<aside class="side-info">
+    <h3>Butt</h3>
+    <img class="char-portrait" src="/static/Img/Character/ButtMcCrack/InGame.png">
+    <table>
+        <tr><th>Full Name</th><td>Butt McCrack</td></tr>
+        <tr><th>Gender</th><td>Female</td></tr>
+        <tr><th>Species</th><td>Human</td></tr>
+        <tr><th>First Appearance</th><td>Shitting Bricks Simulator 2024</td></tr>
+    </table>
+</aside>
 
 **Butt McCrack** is the protagonist of [Shitting Bricks Simulator 2024]. In the
 game, she is only mentioned in an e-mail viewable in the **Extras** menu after

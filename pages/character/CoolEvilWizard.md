@@ -7,7 +7,15 @@ thumb: /static/Img/Character/CoolEvilWizard/Wizard.png
 keywords: [Character, Human, Shitting Bricks Simulator]
 ---
 
-<img class="char-portrait" src="/static/Img/Character/CoolEvilWizard/Wizard.png">
+<aside class="side-info">
+    <h3>Cool Evil Wizard</h3>
+    <img class="char-portrait" src="/static/Img/Character/CoolEvilWizard/Wizard.png">
+    <table>
+        <tr><th>Gender</th><td>Male</td></tr>
+        <tr><th>Species</th><td>Human</td></tr>
+        <tr><th>First Appearance</th><td>Shitting Bricks Simulator 2024</td></tr>
+    </table>
+</aside>
 
 The **Cool Evil Wizard** is the main antagonist of [Shitting Bricks Simulator
 2024]. In the game, he is only mentioned in an e-mail viewable in the **Extras**

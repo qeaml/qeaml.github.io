@@ -8,7 +8,17 @@ thumb: /static/Img/Character/CrazyHorse/Bounce.png
 keywords: [Character, Horse]
 ---
 
-<img class="char-portrait" src="/static/Img/Character/CrazyHorse/Bounce.png">
+<aside class="side-info">
+    <h3>Crazy Horse</h3>
+    <img class="char-portrait" src="/static/Img/Character/CrazyHorse/Bounce.png">
+    <table>
+        <tr><th>Full Name</th><td>Ed Crazy</td></tr>
+        <tr><th>Aliases</th><td>Kill Yousef, Weird "Horse" Yankovic</td></tr>
+        <tr><th>Gender</th><td>Male</td></tr>
+        <tr><th>Species</th><td>Horse</td></tr>
+        <tr><th>Location</th><td>South Dakota</td></tr>
+    </table>
+</aside>
 
 **Ed "Kill Yousef" Crazy**, also known as Weird "Horse" Yankovic or simply Crazy
 Horse, is a horse known for his demented mental state.

@@ -7,7 +7,18 @@ thumb: "/static/Img/Character/Gar27/He.png"
 keywords: [Character, Gar28]
 ---
 
-<img class="char-portrait" src="/static/Img/Character/Gar27/He.png">
+<aside class="side-info">
+    <h3>Gar27</h3>
+    <img class="char-portrait" src="/static/Img/Character/Gar27/He.png">
+    <table>
+        <tr><th>Full Name</th><td>Gar27</td></tr>
+        <tr><th>Gender</th><td>Unspecified (it/its)</td></tr>
+        <tr><th>Species</th><td>Gar27</td></tr>
+        <tr><th>Height</th><td>72cm</td></tr>
+        <tr><th>First Appearance</th><td>Gar28</td></tr>
+        <tr><th>Voice</th>><td>domi9</td></tr>
+    </table>
+</aside>
 
 **Gar27** is a minor character appearing in the game Gar28. It appears outside
 of the player's view and follows the player around when out of sight. Its feet

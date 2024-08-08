@@ -6,7 +6,15 @@ thumb: /static/Img/Character/Manitch/02.jpg
 keywords: [Character, OC, Cat, Anthro]
 ---
 
-<img class="char-portrait" src="/static/Img/Character/Manitch/02.jpg">
+<aside class="side-info">
+    <h3>Manitch</h3>
+    <img class="char-portrait" src="/static/Img/Character/Manitch/02.jpg">
+    <table>
+        <tr><th>Full Name</th><td>Manizh Monumut</td></tr>
+        <tr><th>Gender</th><td>Male</td></tr>
+        <tr><th>Species</th><td>Anthrop. Cat</td></tr>
+    </table>
+</aside>
 
 **Manitch Monumut** (canonically *Manizh Monumut*) is an original character
 designed by [qeaml].

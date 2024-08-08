@@ -7,8 +7,17 @@ thumb: "/static/Img/Character/KurtMcDoubleburger/Portrait.jpg"
 keywords: [Character, Cat, Gar28]
 ---
 
-<img class="char-portrait"
-src="/static/Img/Character/KurtMcDoubleburger/Portrait.jpg">
+<aside class="side-info">
+    <h3>Kurt</h3>
+    <img class="char-portrait" src="/static/Img/Character/KurtMcDoubleburger/Portrait.jpg">
+    <table>
+        <tr><th>Full Name</th><td>Kurt McDoubleburger</td></tr>
+        <tr><th>Gender</th><td>Male</td></tr>
+        <tr><th>Species</th><td>Anthrop. Cat</td></tr>
+        <tr><th>Affiliation</th><td>Perc Finance</td></tr>
+        <tr><th>First Appearance</th><td>Gar28</td></tr>
+    </table>
+</aside>
 
 **Kurt McDoubleburger** is a minor character appearing in the game Gar28. He is
 the CEO of Perc Finance, a company closely related to Perc Industries.
