@@ -1,34 +1,38 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en" prefix="og: http://ogp.me/ns#">
-<head>
-  <meta charset="UTF-8">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="${desc}" />
-  % if len(keywords) > 0:
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="${desc}" />
+    % if len(keywords) > 0:
     <meta name="keywords" content="${', '.join(keywords)}" />
-  % endif
-  <meta name="robots" content="index, follow" />
-  <link rel="canonical" href="${fullURL}" />
-  <link rel="icon" type="image/png" href="/static/favicon.png">
-  <link rel="stylesheet" href="/static/style.css">
-  <title>${title}</title>
+    % endif
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="${fullURL}" />
+    <link rel="icon" href="/static/icon-32x.png" sizes="32x32" />
+    <link rel="icon" href="/static/icon-64x.png" sizes="64x64" />
+    <link rel="icon" href="/static/icon-96x.png" sizes="96x96" />
+    <link rel="icon" href="/static/icon-144x.png" sizes="144x144" />
+    <link rel="stylesheet" href="/static/style.css" />
+    <title>${title}</title>
 
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:creator" content="@qeamlbackup" />
-  <meta property="og:title" content="${title}" />
-  <meta property="og:description" content="${desc}" />
-  <meta property="og:url" content="${fullURL}" />
-  <meta property="og:image" content="https://qeaml.github.io${thumb}" />
-</head>
-<body>
-<%include file="header.html"/>
-<main>
-${body}
-</main>
-<%include file="footer.html"/>
-</body>
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:creator" content="@qeamlbackup" />
+    <meta property="og:title" content="${title}" />
+    <meta property="og:description" content="${desc}" />
+    <meta property="og:url" content="${fullURL}" />
+    <meta property="og:image" content="https://qeaml.github.io${thumb}" />
+  </head>
+  <body>
+    <%include file="header.html"/>
+    <main>${body}</main>
+    <%include file="footer.html"/>
+  </body>
 </html>
