@@ -46,6 +46,8 @@ images:
     caption: "Gar64, drawn by clueless"
   - file: "gell.png"
     caption: "Gell, drawn by clueless"
+  - file: "gar silverhand.png"
+    caption: "Gar Silverhand, drawn by clueless"
 ---
 
 ## Trivia
