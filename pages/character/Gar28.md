@@ -50,6 +50,8 @@ images:
     caption: "Gar Silverhand, drawn by clueless"
   - file: "cool evil gar.png"
     caption: "Cool Evil Gar, drawn by clueless"
+  - file: "gharst.png"
+    caption: "Gharst, drawn by qeaml"
 ---
 
 ## Trivia
