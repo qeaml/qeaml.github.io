@@ -52,6 +52,10 @@ images:
     caption: "Cool Evil Gar, drawn by clueless"
   - file: "gharst.png"
     caption: "Gharst, drawn by qeaml"
+  - file: "minegar.png"
+    caption: "Minegar, drawn by clueless"
+  - file: "minegarig.png"
+    caption: "Ditto"
 ---
 
 ## Trivia
