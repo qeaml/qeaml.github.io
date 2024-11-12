@@ -46,6 +46,16 @@ images:
     caption: "Gar64, drawn by clueless"
   - file: "gell.png"
     caption: "Gell, drawn by clueless"
+  - file: "gar silverhand.png"
+    caption: "Gar Silverhand, drawn by clueless"
+  - file: "cool evil gar.png"
+    caption: "Cool Evil Gar, drawn by clueless"
+  - file: "gharst.png"
+    caption: "Gharst, drawn by qeaml"
+  - file: "minegar.png"
+    caption: "Minegar, drawn by clueless"
+  - file: "minegarig.png"
+    caption: "Ditto"
 ---
 
 ## Trivia
