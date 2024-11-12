@@ -69,6 +69,8 @@ images:
     caption: "Gar making a respectful request"
   - file: "troublemaker gar.avif"
     caption: "Troublemaker Gar"
+  - file: "minegarig.png"
+    caption: "* [Minegar]"
 ---
 
 ## See Also
@@ -76,3 +78,4 @@ images:
 * [Har28]
 
 [Har28]: /character/Har28
+[Minegar]: /static/character/minegar.png
