@@ -27,6 +27,7 @@ was originally conceived by [qeaml].
 
 * He is a divorce lawyer.
 * He is an [actor].
+* He is still an [actor].
 * He is in witness protection.
 * He [knows Gordon Freeman][Gordon].
 * He is a resident of South Dakota.
