@@ -27,6 +27,11 @@ was originally conceived by [qeaml].
 
 * He is a divorce lawyer.
 * He is an [actor].
+* He is a [boxer].
+* He is a [traitor].
+* He is a [trader].
+* He is a [murderer].
+* His favorite genre is [rock].
 * He is in witness protection.
 * He [knows Gordon Freeman][Gordon].
 * He is a resident of South Dakota.
@@ -50,3 +55,9 @@ images:
 [qeaml]: https://qeaml.github.io
 [Gordon]: /static/Img/Character/CrazyHorse/Gordon.jpg
 [actor]: https://www.youtube.com/watch?v=js3Q0QllYYQ
+[murderer]: https://en.wikipedia.org/wiki/Enumclaw_horse_sex_case
+[traitor]: https://en.wikipedia.org/wiki/Trojan_Horse
+[boxer]: https://en.wikipedia.org/wiki/Organized_horse_fighting
+[trader]: https://en.wikipedia.org/wiki/Horse_trading
+[thief]: https://en.wikipedia.org/wiki/Horse_theft
+[rock]: https://en.wikipedia.org/wiki/Rocking_horse
