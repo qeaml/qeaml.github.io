@@ -11,7 +11,7 @@ Note that the [Introduction] page of the nwge docs contains more up-to-date
 information as well as plenty of other pages describing the engine's
 ins-and-outs. This page is not always kept up-to-date.
 
-*Fun fact:* Nwge's birthday is April 18th, 2023. That means nwge is 1 year old!
+*Fun fact:* Nwge's birthday is April 18th, 2023. That means nwge is 2 years old!
 
 ## What does it do?
 
@@ -69,8 +69,8 @@ of the game and utilized what little code I could to start a *new game engine*.
 By focusing on code reusability, I have a pretty powerful solution I can freely
 reuse between as many game projects as I wish! *(kind of the whole point of a
 game engine, no?)*. Due to it's bare-bones nature, it supports any kind of game
-you could imagine. As of right now, the best you'll be getting is basic 2D
-graphics, but if you're insane enough to write your own shaders and everything
+you could imagine. As of right now, the best you'll be getting is basic 2D and
+3D graphics, but if you're insane enough to write your own shaders and everything
 in between -- anything is possible.
 
 [Introduction]: https://qeaml.github.io/nwge-docs/INTRO
